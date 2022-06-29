@@ -6,5 +6,5 @@ Désormais, à chaque fois que vous taperez "quoi" sur votre clavier, une notifi
 
 ## Fonctionnement
 
-Une fois main.py exécuté, le programme va lire tout vos inputs clavier et vous avertir lorsqu'il y lis la séquence de touches maudite. Cela fonctionne donc sur tous types de logiciel, même en tapant en dehors d'une zone de texte.
+Une fois main.py exécuté, le programme va lire tout vos inputs clavier et vous avertir lorsqu'il y lit la séquence de touches maudite. Cela fonctionne donc sur tous types de logiciel, même en tapant en dehors d'une zone de texte.
 Pour quitter le programme, appuyez sur "Echapt"
